@@ -1,0 +1,3 @@
+[submodule "website-pawamoy"]
+	path = website-pawamoy
+	url = https://github.com/pawamoy/website.git
