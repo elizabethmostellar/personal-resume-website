@@ -9,6 +9,7 @@
 - [x] create home, about, resume, and contact pages
 - [x] format header image - needs fill page width, but shrink height
 - [x] link pages to home and adjust formatting
+- [x] remove unused submodule
 - [ ] research and choose what free subdomain to use (PythonAnywhere?)
 - [ ] make website light/dark mode widget
 - [ ] create email widget
