@@ -7,7 +7,7 @@
 - [x] create LinkedIn clickable link
 - [x] add header image
 - [x] create home, about, resume, and contact pages
-- [ ] format header image - needs fill page width, but shrink height
+- [x] format header image - needs fill page width, but shrink height
 - [ ] research and choose what free subdomain to use (PythonAnywhere?)
 - [ ] make website light/dark mode widget
 - [ ] create email widget
