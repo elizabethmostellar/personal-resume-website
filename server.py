@@ -32,3 +32,6 @@ def serve_any_other_file(path):
 # after each edit, go to PythonAnywhere, bash, and type: 
 # cd ~/personal-resume-websitete
 # git pull
+
+# delete this once fully on PythonAnywhere
+app.run(host='0.0.0.0',port=3000, debug=True, extra_files=['./',])
