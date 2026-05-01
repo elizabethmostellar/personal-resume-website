@@ -11,6 +11,7 @@
 - [x] link pages to home and adjust formatting
 - [x] remove unused submodule
 - [x] add header to other pages
+- [ ] create and upload PPT Splash Screen
 - [ ] research and choose what free subdomain to use (PythonAnywhere?)
 - [ ] host website on subdomain
 - [ ] make website light/dark mode widget
