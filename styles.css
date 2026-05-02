@@ -6,7 +6,7 @@
 }
 
 body {  
-    font-family: "Georgia", "Times New Roman", Times, serif
+    font-family: "Georgia", "Times New Roman", Times, serif;
     font-size: 16px;
     font-weight: 600;
     line-height: 1.6; /* Improves readability */  
@@ -25,6 +25,9 @@ a {
     margin: 0 auto; /* Centers content horizontally */  
     padding: 20px; /* Adds space on left/right for small screens */  
     overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }  
 
 /* Responsive Design: Mobile-first approach */  
@@ -53,24 +56,24 @@ header {
 }
 
 #logo {
-    /* text adjustments */
+    /* text adjustments - if adding wording
     float: left;
     font-size: 2em;
     font-family: "Georgia", "Times New Roman", Times, serif;
     text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+    */
 
     /* alignment */
     display: flex;
     align-items: center;
-    gap: 5px;
-    margin-left: -20px;
+    margin-left: 0;
+    padding-left: 0;
 }
 
 .logo-img {
-    height: 100px;
+    height: 80px;
     width: auto;
-    position: relative;
-    top: 5px;  /* moves image down slightly */
+    position: static;
 }
 
 nav {
